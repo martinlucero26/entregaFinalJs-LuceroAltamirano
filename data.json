@@ -1,0 +1,8 @@
+[
+    {"id": 1, "titulo": "Pechera 1", "categoria": {"nombre": "Camas", "id": "camas"}, "imagen": "./imgs/PecheraUno.jpg", "precio0": 1000}, 
+    {"id": 2, "titulo": "Pechera 2", "categoria": {"nombre": "Camas", "id": "camas"}, "imagen": "./imgs/PecheraDos.jpg", "precio0": 1000}, 
+    {"id": 3, "titulo": "Pechera 3", "categoria": {"nombre": "Camas", "id": "camas"}, "imagen": "./imgs/PecheraTres.jpg", "precio0": 1000},
+    {"id": 4, "titulo": "Pechera 4", "categoria": {"nombre": "Camas", "id": "camas"}, "imagen": "./imgs/PecheraCuatro.jpg", "precio0": 1000}, 
+    {"id": 5, "titulo": "Pechera 5", "categoria": {"nombre": "Camas", "id": "camas"}, "imagen": "./imgs/PecheraCinco.jpg", "precio0": 1000}
+]
+
